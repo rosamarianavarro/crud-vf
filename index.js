@@ -1,3 +1,5 @@
+console.clear();
+
 //importar la app e servidor
 let app = require('./app');
 
